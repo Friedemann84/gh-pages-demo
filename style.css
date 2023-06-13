@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: coral;
+  text-align: center;
+}
+
+p {
+  background-color: darkblue;
+  color: aquamarine;
+  text-align: center;
+}
+
+.container {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 80vw;
+
+}
